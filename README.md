@@ -10,11 +10,6 @@
 
 ### Olá, internauta. Muito prazer, meu nome é Jean Vitor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 Atualmente sou estagiário em desenvolvimento web full-stack.
-- 🌱 Atualmente estou estudando sobre React e Spring Framework.
-- 📫 Contate-me no email: jean.vitor@outlook.com.br.
-- 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React.
-
 ## Contatos ✉️
 
 <p align="center">
@@ -47,6 +42,7 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >  
+    <img height="49" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </p>
 
  ## Visitas 🕵️‍♂️<br>
