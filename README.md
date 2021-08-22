@@ -15,7 +15,7 @@
 - 📫 Contate-me no email: jean.vitor@outlook.com.br.
 - 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React.
 
-### Contatos
+## Contatos ✉️
 
 <p align="center">
     <a href="https://github.com/teteusAraujo">
@@ -32,7 +32,7 @@
 </p>
 
   
-## Estudando:nerd_face:
+## Estudando 👨‍💻
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -49,7 +49,7 @@
     <img height="40" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" >  
 </p>
 
- ## Visitas <br>
+ ## Visitas 🕵️‍♂️<br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Jean-Vitor/count.svg" />
  </p>
