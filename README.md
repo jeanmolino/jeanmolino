@@ -1,3 +1,5 @@
+### Olá, internauta. Muito prazer, meu nome é Jean Vitor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
 <div align="center">
 
   <div>
@@ -7,8 +9,6 @@
   </div>
 
 </div>
-
-### Olá, internauta. Muito prazer, meu nome é Jean Vitor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## Contatos ✉️
 
