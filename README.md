@@ -1,10 +1,3 @@
-### Olá, internauta. Muito prazer, meu nome é Jean Vitor! 👋
-
-- 🔭 Atualmente sou estagiário em desenvolvimento web full-stack.
-- 🌱 Atualmente estou estudando sobre React e Spring Framework.
-- 📫 Contate-me no email: jean.vitor@outlook.com.br.
-- 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React.
-
 <div align="center">
 
   <div>
@@ -13,12 +6,29 @@
     <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Vitor&layout=compact&langs_count=7&theme=react"/> 
   </div>
 
-  <div> 
-    <a href = "mailto:jean.vitor@outlook.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/jean-vitor-3578a41a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-
 </div>
+
+### Olá, internauta. Muito prazer, meu nome é Jean Vitor! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+
+- 🔭 Atualmente sou estagiário em desenvolvimento web full-stack.
+- 🌱 Atualmente estou estudando sobre React e Spring Framework.
+- 📫 Contate-me no email: jean.vitor@outlook.com.br.
+- 💙 Interesse: Java, Spring Boot, HTML, CSS, JavaScript, React.
+
+<p align="center">
+    <a href="https://github.com/teteusAraujo">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/teteusAraujo">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:jean.vitor@outlook.com.br">
+        <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white=mailto:jean.vitor@outlook.com.br">
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/jean-vitor-3578a41a2">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/jean-vitor-3578a41a2/">
+    </a>
+</p>
+
   
 ## Estudando:nerd_face:
 <p align="center">
