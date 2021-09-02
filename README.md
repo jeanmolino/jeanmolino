@@ -50,4 +50,7 @@
  </p>
   
 ## Notion 🕵️‍♂️
-  <a align="center" href="https://www.notion.so/Anota-es-a751733d76c44d63bbc5001734d90e4b">Minhas anotações</a>
+  
+<div align="center">
+  <a href="https://www.notion.so/Anota-es-a751733d76c44d63bbc5001734d90e4b">Minhas anotações</a>
+</div>
