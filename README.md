@@ -49,7 +49,7 @@
    <img alingn="center" src="https://profile-counter.glitch.me/Jean-Vitor/count.svg" />
  </p>
   
-## Notion 🕵️‍♂️
+## Acesse meus estudos 🤓
   
 <div align="center">
   <a href="https://www.notion.so/Anota-es-a751733d76c44d63bbc5001734d90e4b">Minhas anotações</a>
