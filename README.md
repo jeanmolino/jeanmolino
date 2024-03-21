@@ -1,12 +1,8 @@
 ## Olá, internauta. Seja bem-vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-<div align="center">
-
-  <div display="flex">
-    <a href="https://github.com/Jean-Vitor">
-    <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Vitor&layout=compact&langs_count=7&theme=react"/> 
-  </div>
-
+<div display="flex">
+  <a href="https://github.com/Jean-Vitor">
+  <img height="180em" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean-Vitor&layout=compact&langs_count=7&theme=react"/> 
 </div>
 
 ## Contatos ✉️
