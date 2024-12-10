@@ -1,6 +1,6 @@
 ## Olá, internauta. Seja bem-vindo! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-## Contatos ✉️
+# Contatos
 
 <p align="center">
     <a href="https://github.com/Jean-Vitor">
@@ -16,7 +16,7 @@
     </a>
 </p>
   
-## Acesse meus estudos 🤓
+# Acesse meus estudos 🤓
   
 <div align="center">
   <a href="https://www.notion.so/Anota-es-a751733d76c44d63bbc5001734d90e4b">Minhas anotações</a>
